@@ -1,0 +1,65 @@
+[
+    {
+        "id": "persian",
+        "name": "Persian",
+        "temperament": "Calm, Gentle, Quiet, Playful",
+        "origin": "Iran",
+        "description": "One of the most recognizable cat breeds, the Persian has a long, fluffy coat and a flat face.",
+        "life_span": "12-17",
+        "url": "https://cataas.com/cat"
+    },
+    {
+        "id": "mainecoon",
+        "name": "Maine Coon",
+        "temperament": "Intelligent, Playful, Curious, Affectionate",
+        "origin": "USA",
+        "description": "The Maine Coon is a large and muscular domesticated cat breed native to North America.",
+        "life_span": "12-15",
+        "url": "https://cataas.com/cat"
+    },
+    {
+        "id": "britishshorthair",
+        "name": "British Shorthair",
+        "temperament": "Easy-going, Affectionate, Independent, Sturdy",
+        "origin": "United Kingdom",
+        "description": "The British Shorthair is a sturdy and compact cat breed originating from the United Kingdom.",
+        "life_span": "12-17",
+        "url": "https://cataas.com/cat"
+    },
+    {
+        "id": "sphynx",
+        "name": "Sphynx",
+        "temperament": "Curious, Playful, Affectionate, Energetic",
+        "origin": "Canada",
+        "description": "The Sphynx is a breed of hairless cat known for its sleek, wrinkled skin and affectionate nature.",
+        "life_span": "12-15",
+        "url": "https://cataas.com/cat"
+    },
+    {
+        "id": "ragdoll",
+        "name": "Ragdoll",
+        "temperament": "Affectionate, Docile, Gentle, Playful",
+        "origin": "USA",
+        "description": "The Ragdoll is a large and muscular cat breed known for its soft, silky coat and tendency to go limp when picked up.",
+        "life_span": "12-17",
+        "url": "https://cataas.com/cat"
+    },
+    {
+        "id": "siamese",
+        "name": "Siamese",
+        "temperament": "Extroverted, Intelligent, Active, Affectionate",
+        "origin": "Thailand",
+        "description": "The Siamese is a short-haired breed of domestic cat originating from Thailand.",
+        "life_span": "15-20",
+        "url": "https://cataas.com/cat"
+    },
+    {
+        "id": "aege",
+        "name": "Aegean",
+        "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+        "origin": "Greece",
+        "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding.",
+        "life_span": "9-12",
+        "url": "https://cataas.com/cat"
+    }
+]
